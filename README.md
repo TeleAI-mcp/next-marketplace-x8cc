@@ -1,2 +1,3 @@
-# next-marketplace-x8cc
-Automated issue comment bot repository
+# Next Marketplace X8Cc
+
+Automated issue comment bot repository.
